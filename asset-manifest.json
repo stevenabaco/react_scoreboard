@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stevenabaco/react_scoreboard/static/css/main.7462566f.chunk.css",
+    "main.js": "/stevenabaco/react_scoreboard/static/js/main.84f926ce.chunk.js",
+    "main.js.map": "/stevenabaco/react_scoreboard/static/js/main.84f926ce.chunk.js.map",
+    "runtime-main.js": "/stevenabaco/react_scoreboard/static/js/runtime-main.14d885a6.js",
+    "runtime-main.js.map": "/stevenabaco/react_scoreboard/static/js/runtime-main.14d885a6.js.map",
+    "static/js/2.33576538.chunk.js": "/stevenabaco/react_scoreboard/static/js/2.33576538.chunk.js",
+    "static/js/2.33576538.chunk.js.map": "/stevenabaco/react_scoreboard/static/js/2.33576538.chunk.js.map",
+    "index.html": "/stevenabaco/react_scoreboard/index.html",
+    "static/css/main.7462566f.chunk.css.map": "/stevenabaco/react_scoreboard/static/css/main.7462566f.chunk.css.map",
+    "static/js/2.33576538.chunk.js.LICENSE.txt": "/stevenabaco/react_scoreboard/static/js/2.33576538.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14d885a6.js",
+    "static/js/2.33576538.chunk.js",
+    "static/css/main.7462566f.chunk.css",
+    "static/js/main.84f926ce.chunk.js"
+  ]
+}
